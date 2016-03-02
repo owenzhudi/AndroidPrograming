@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Robust Download</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="download_url">Download from URL:</string>
+    <string name="default_url">http://www.winlab.rutgers.edu/~janne/mobisys14gesturesecurity.pdf</string>
+    <string name="download">Download</string>
+    <string name="log_button">Log</string>
+    <string name="any_wifi_label">Download only with any wifi</string>
+    <string name="ru_wifi_only_label">Download only with RU wifi</string>
+    <string name="ru_wifi_only_toast">No RU Wifi is allowed to download!</string>
+    <string name="wifi_not_connected_toast">WiFi is not connected!</string>
+</resources>
